@@ -20,3 +20,7 @@ This repository demonstrates Git best practices for managing a DevOps project.
 ## Version
 
 Current Release: v1.0
+
+## Documentation Status
+
+All DevOps tasks have been documented using Markdown.
